@@ -11,7 +11,7 @@ I have created a docker file and built the docker images for my spring boot appl
 ![image](https://user-images.githubusercontent.com/87854476/228178860-fc5c09c9-d3ab-4a84-8abb-4b2a274481c6.png)
 ![image](https://user-images.githubusercontent.com/87854476/228178943-0a19abd6-2c9e-42ea-898e-ecf3cc8f65f9.png)
 
-## Endpoints
+## Endpoints :
 
 ![image](https://user-images.githubusercontent.com/87854476/228190181-e0ff950b-a257-40c0-80e7-9227c3f6d85f.png)
 ![image](https://user-images.githubusercontent.com/87854476/228190540-df6b5e2d-46e7-4548-8e7c-473a6ac769d0.png)
